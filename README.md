@@ -8,7 +8,7 @@ Self-driven Frontend Developer specializing in Angular & React. Currently explor
 - 🌱 I’m currently learning: **Fullstack Development | WebSocket Protocols | Microservices**  
 - 👯 I’m looking to collaborate on: **Open-source web development projects**  
 - 💬 Ask me about: **Angular, React, Java, Websockets, Software Architecture**  
-- 📫 How to reach me: **maksymilian.zylinski@example.com**  
+- 📫 How to reach me: **makzylinski@gmail.com**  
 - ⚡ Fun fact: **I'm on a quest to earn every GitHub Achievement! 🏆**
 
 ---
@@ -27,7 +27,7 @@ Self-driven Frontend Developer specializing in Angular & React. Currently explor
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksymilianZylinski&show_icons=true&theme=radical" alt="Maks' GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makzylinski&show_icons=true&theme=radical" alt="Maks' GitHub stats" />
 </p>
 
 ---
