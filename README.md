@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Maks!</h1>
-<h3 align="center">Frontend Developer 🚀 Future Fullstack Engineer</h3>
+<h1 align="center">Maksymilian Żyliński</h1>
+<h3 align="center">Frontend Developer | Evolving into Fullstack</h3>
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently building: **Realtime Chat App (Angular + Spring Boot)**
-- 🌱 Learning: **Fullstack Development | WebSocket Communication | Scalable Architectures**
-- 💬 Ask me about: **Angular, React, Java, Spring Boot, Websockets**
-- ⚡ Fun fact: **Coding during the day, gym in the evening, dreaming big at night!**
+### 🧭 About Me
+- 👨‍💻 Experienced in building web applications using Angular and React.
+- 🔧 Currently working on a **Realtime Chat App** (Angular + Spring Boot + WebSockets).
+- 🚀 Expanding my skillset towards backend development – Java, Spring Boot, scalable architectures.
+- 🧼 I care about clean code, performance, and effective team collaboration.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🌍 Connect with me
+### 📬 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/maksymilian-zylinski/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -37,11 +37,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makzylinski&show_icons=true&theme=radical" alt="Maks GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makzylinski&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <b>“Stay hungry, stay foolish.”</b> 🚀
+  <i>Software development is not just about writing code — it's about solving problems, staying curious, and continuously improving.</i>
 </p>
