@@ -37,8 +37,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makzylinski&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makzylinski&show_icons=true&theme=radical" alt="Maks GitHub Stats" />
 </p>
+
 
 ---
 
