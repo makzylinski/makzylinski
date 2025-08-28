@@ -5,7 +5,7 @@
 
 ### 🧭 About Me
 - 👨‍💻 Experienced in building web applications using Angular and React.
-- 🔧 Currently working on a **Realtime Chat App** (Angular + Spring Boot + WebSockets).
+- 🔧 Currently working on a **Fitness App** (Angular + Spring Boot).
 - 🚀 Expanding my skillset towards backend development – Java, Spring Boot, scalable architectures.
 - 🧼 I care about clean code, performance, and effective team collaboration.
 
