@@ -1,13 +1,14 @@
 <h1 align="center">Maksymilian Żyliński</h1>
-<h3 align="center">Frontend Developer | Evolving into Fullstack</h3>
+<h3 align="center">Frontend Developer | Aspiring Fullstack Engineer</h3>
 
 ---
 
 ### 🧭 About Me
-- 👨‍💻 Experienced in building web applications using Angular and React.
-- 🔧 Currently working on a **Fitness App** (Angular + Spring Boot).
-- 🚀 Expanding my skillset towards backend development – Java, Spring Boot, scalable architectures.
-- 🧼 I care about clean code, performance, and effective team collaboration.
+- 👨‍💻 Frontend Developer with 5 years of experience building modern web applications using **Angular** and **React**.  
+- 💡 Passionate about creating clean, efficient, and scalable software solutions.  
+- 🚀 Currently developing a **Fitness App** with **Angular** and **Spring Boot**.  
+- 🎯 Expanding my expertise in **Java**, **Spring Boot**, and backend development.  
+- 🤝 I value collaboration, maintainable code, and continuous learning.
 
 ---
 
@@ -29,20 +30,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:makzylinski@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makzylinski&show_icons=true&theme=radical" alt="Maks GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makzylinski&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 
 ---
 
 <p align="center">
-  <i>Software development is not just about writing code — it's about solving problems, staying curious, and continuously improving.</i>
+  <i>“Great software is built through curiosity, consistency, and collaboration.”</i>
 </p>
