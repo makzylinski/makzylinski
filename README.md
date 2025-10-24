@@ -4,7 +4,7 @@
 ---
 
 ### 🧭 About Me
-- 👨‍💻 Frontend Developer with 5 years of experience building modern web applications using **Angular** and **React**.  
+- 👨‍💻 Frontend Developer with over 6 years of experience building modern web applications using **Angular** and **React**.  
 - 💡 Passionate about creating clean, efficient, and scalable software solutions.  
 - 🚀 Currently developing a **Fitness App** with **Angular** and **Spring Boot**.  
 - 🎯 Expanding my expertise in **Java**, **Spring Boot**, and backend development.  
