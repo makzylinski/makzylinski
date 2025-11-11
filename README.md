@@ -1,5 +1,5 @@
 <h1 align="center">Maksymilian Żyliński</h1>
-<h3 align="center">Frontend Developer | Aspiring Fullstack Engineer</h3>
+<h3 align="center">Frontend Developer | Fullstack Engineer</h3>
 
 ---
 
@@ -43,6 +43,3 @@
 
 ---
 
-<p align="center">
-  <i>“Great software is built through curiosity, consistency, and collaboration.”</i>
-</p>
